@@ -1,4 +1,4 @@
-# projeto-banco
+# banco-desafio
 
 Este projeto foi feito para o Bootcamp: Potência Tech powered by iFood | Ciências de Dados com Python do DIO.me
 
